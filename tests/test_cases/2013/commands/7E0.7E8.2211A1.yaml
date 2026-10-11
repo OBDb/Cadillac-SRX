@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    SRX_RUNTM: 51
+  response: 7E8056211A10033
+- expected_values:
+    SRX_RUNTM: 257
+  response: 7E8056211A10101
+- expected_values:
+    SRX_RUNTM: 504
+  response: 7E8056211A101F8
+- expected_values:
+    SRX_RUNTM: 1377
+  response: 7E8056211A10561

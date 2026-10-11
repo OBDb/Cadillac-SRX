@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Cadillac_SRX"
+
+generations:
+  - name: "First Generation"
+    start_year: 2004
+    end_year: 2009
+    description: "A mid-size crossover on the Sigma platform with V6 and Northstar V8 engines."
+  - name: "Second Generation"
+    start_year: 2010
+    end_year: 2016
+    description: "On the Theta Premium platform with 3.0 L and 3.6 L V6s."
